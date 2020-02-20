@@ -1,0 +1,26 @@
+body {
+
+    background-color: blue;
+}
+#boutonOne {
+
+   font-family:math;
+}
+
+#boutonTwo {
+
+    font-family :fantasy;
+}
+
+#NewOne {
+
+    color : green
+}
+#NewTwo {
+
+    color : red
+}
+
+#NewThree {
+    color : yellow
+}
